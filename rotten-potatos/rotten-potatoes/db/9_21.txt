@@ -1,0 +1,9 @@
+]0;ubuntu@haonsong-ece5820-3681779: ~/workspace/rotten-potatos/rotten-potatoes/db[01;32mhaonsong[00m:[01;34m~/workspace/rotten-potatos/rotten-potatoes/db[00m (master) $ dkjfyioaddnfa^C
+]0;ubuntu@haonsong-ece5820-3681779: ~/workspace/rotten-potatos/rotten-potatoes/db[01;32mhaonsong[00m:[01;34m~/workspace/rotten-potatos/rotten-potatoes/db[00m (master) $ ^C
+]0;ubuntu@haonsong-ece5820-3681779: ~/workspace/rotten-potatos/rotten-potatoes/db[01;32mhaonsong[00m:[01;34m~/workspace/rotten-potatos/rotten-potatoes/db[00m (master) $ ^C
+]0;ubuntu@haonsong-ece5820-3681779: ~/workspace/rotten-potatos/rotten-potatoes/db[01;32mhaonsong[00m:[01;34m~/workspace/rotten-potatos/rotten-potatoes/db[00m (master) $ ^C
+]0;ubuntu@haonsong-ece5820-3681779: ~/workspace/rotten-potatos/rotten-potatoes/db[01;32mhaonsong[00m:[01;34m~/workspace/rotten-potatos/rotten-potatoes/db[00m (master) $ ^C
+]0;ubuntu@haonsong-ece5820-3681779: ~/workspace/rotten-potatos/rotten-potatoes/db[01;32mhaonsong[00m:[01;34m~/workspace/rotten-potatos/rotten-potatoes/db[00m (master) $ ^C
+]0;ubuntu@haonsong-ece5820-3681779: ~/workspace/rotten-potatos/rotten-potatoes/db[01;32mhaonsong[00m:[01;34m~/workspace/rotten-potatos/rotten-potatoes/db[00m (master) $ ^C
+]0;ubuntu@haonsong-ece5820-3681779: ~/workspace/rotten-potatos/rotten-potatoes/db[01;32mhaonsong[00m:[01;34m~/workspace/rotten-potatos/rotten-potatoes/db[00m (master) $ Script started, file is typescript
+Script done, file is typescript
